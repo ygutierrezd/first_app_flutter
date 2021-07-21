@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 # Esta es una aplicación con mis primeros pasos en flutter 
 
-![alt text](https://github.com/ygutierrezd/first_app_flutter/blob/main/app.jpg?raw=true)
+![alt text](https://github.com/ygutierrezd/first_app_flutter/blob/main/assets/img/app.JPG?raw=true)
